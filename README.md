@@ -23,4 +23,4 @@ npm run lint
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
-个人修改了一下
+增加查看定位功能，修复推送配置问题
